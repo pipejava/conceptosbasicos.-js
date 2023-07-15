@@ -42,4 +42,4 @@ let autos = {
 
 //mostrar los paises
 
-console.table(autos['paisMarca'])
+console.table(autos['paisMarca']);
