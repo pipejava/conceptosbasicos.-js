@@ -25,4 +25,4 @@ function miApellido(apellido){
     console.log('Mi apellido: '+' García')
 }
 
-miApellido();
+miApellido('García');
